@@ -11,10 +11,14 @@ Prediction is made by majority vote from nC2 classifiers.
 Scikit Learn uses One vs One technique for multiclass classification using SVM
 
 ### Accuracy
+
 * Implementing One vs One technique on a SVM Classifier made from scratch
   - Accuracy - 60.02%
 
+![alt-text](https://github.com/CheshtaK/Image-Classification/blob/master/Classifier.PNG)
 
 
 * Using scikit learn
   - Accuracy - 63.11%
+
+![alt-text](https://github.com/CheshtaK/Image-Classification/blob/master/Sklearn.PNG)
